@@ -1,4 +1,4 @@
-from functions import lower
+from functions import *
 
 
 def plus(a, b):
@@ -18,5 +18,4 @@ if __name__ == '__main__':
     print(minus(2, 3))
     print(mul(2, 3))
     print(lower('LOWER'))
-
-
+    print(add_pref('main'))
