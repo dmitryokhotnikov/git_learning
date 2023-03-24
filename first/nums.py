@@ -1,5 +1,6 @@
 from functions import lower
 
+
 def plus(a, b):
     return a + b
 
