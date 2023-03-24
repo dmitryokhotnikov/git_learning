@@ -1,2 +1,2 @@
 def lower(text):
-  return text.lower()
+    return text.lower()
